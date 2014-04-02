@@ -8,5 +8,7 @@ A front-end bootcamp made for Mediahuis.
 
 ### JavaScript
 
-* [Variables](javascript-and-jquery/javascript/variables/)
+* [Variables](javascript-and-jquery/javascript/01-variables/)
+* [Functions](javascript-and-jquery/javascript/02-functions/)
+* [Scope](javascript-and-jquery/javascript/03-scope/)
 
