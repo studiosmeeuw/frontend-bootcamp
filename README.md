@@ -1,4 +1,12 @@
-frontend-bootcamp
-=================
+# Front-end Bootcamp
 
-Front-end Bootcamp for Mediahuis
+A front-end bootcamp made for Mediahuis.
+
+> "Drop down and give me ten (lines of perfectly valid JavaScript)!"
+
+## JavaScript & jQuery
+
+### JavaScript
+
+* [Variables](javascript-and-jquery/javascript/variables/)
+
